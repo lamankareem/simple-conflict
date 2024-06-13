@@ -1,1 +1,2 @@
 Hello this is the original text
+this is the new feature text
